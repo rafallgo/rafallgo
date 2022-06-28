@@ -1,4 +1,4 @@
-### Oi! Eu sou a Rafael Gomes, Desenvolvedor iOS Jr.! 📱
+### Oi! Eu sou o Rafael Gomes, Desenvolvedor iOS Jr.! 📱
 
 - 🔭 Hoje trabalho como Executivo Comercial na Rede (Itaú) e estou em migração de carreira 🤩🤩
 - 🌱 Estudando Swift 
