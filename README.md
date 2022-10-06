@@ -1,7 +1,6 @@
-### Oi! Eu sou o Rafael Gomes, Desenvolvedor iOS Jr.! 📱
+### Oi! Eu sou o Rafael Gomes, Dev iOS Jr.! 📱
 
-- 🔭 Hoje trabalho como Executivo Comercial na Rede (Itaú) e estou em migração de carreira 🤩
-- 🌱 Estudando Swift 
+- 🔭 Trabalho como Dev iOS Jr. na HST 🤩
 - 📫 rafaell.gan@gmail.com
 - 👔 https://www.linkedin.com/in/ragoall/
 
